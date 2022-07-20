@@ -5,4 +5,4 @@ MNIST Handwritting recognition dataset using a Convulational Neural Network and 
 
 ![Stats comparison](https://github.com/Siddhesh-Agarwal/Handwritting-Recognition/blob/8557f31066938a01d41fe91f8d79246e426b8bd5/image_2022-07-20_110458425.png)
 
-> **Credits**: (Wandb.ai)[https://wandb.ai)
+> **Credits**: https://wandb.ai
